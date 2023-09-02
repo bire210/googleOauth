@@ -13,11 +13,11 @@
      ```
  4. Create OAuth 2.0 Credentials:
     ```
-    In the Google Developer Console, go to "APIs & Services" > "Credentials."
-    Click on "+ CREATE CREDENTIALS" and select "OAuth client ID."
-    Choose the application type (Web application, Mobile application, etc.).
-    Configure the authorized redirect URIs where Google will send the user after authentication.
-    These URIs should match the callback URLs in your application.
-    After configuring, click "Create" to generate your OAuth client ID and secret.
+    -In the Google Developer Console, go to "APIs & Services" > "Credentials."
+    - Click on "+ CREATE CREDENTIALS" and select "OAuth client ID."
+    - Choose the application type (Web application, Mobile application, etc.).
+    - Configure the authorized redirect URIs where Google will send the user after authentication.
+    - These URIs should match the callback URLs in your application.
+    - After configuring, click "Create" to generate your OAuth client ID and secret.
     
     ```
